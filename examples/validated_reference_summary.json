@@ -1,0 +1,81 @@
+{
+  "population_original_registrations": 1976,
+  "cleaned_registrations": 1900,
+  "surplus_duplicate_registrations": 67,
+  "exact_previous_exposure_identity_holds": 5,
+  "provisional_candidate_identities": 1828,
+  "selected_unique_farmers": 630,
+  "psp_only": 315,
+  "psp_plus_ishamba": 315,
+  "psp_only_counties": {
+    "Meru": 157,
+    "Tharaka Nithi": 158
+  },
+  "psp_plus_ishamba_counties": {
+    "Meru": 157,
+    "Tharaka Nithi": 158
+  },
+  "raw_source_geography_labels": 48,
+  "provisional_geographic_groups": 24,
+  "sampled_in_small_ward_pools": 10,
+  "cross_arm_shared_phone": 0,
+  "gender_female_counts": [
+    185,
+    180
+  ],
+  "youth_counts": [
+    85,
+    94
+  ],
+  "finger_millet_counts": [
+    20,
+    21
+  ],
+  "individual_verification_cases": 39,
+  "selected_original_high_priority": 24,
+  "approval_status": "HOLD - all approvals pending",
+  "balance": [
+    {
+      "domain": "County",
+      "categories": 2,
+      "tvd_between_arms": 0.0,
+      "tvd_selected_vs_frame": 0.04261574797679832,
+      "max_abs_smd": 0.0
+    },
+    {
+      "domain": "Provisional geographic group",
+      "categories": 24,
+      "tvd_between_arms": 0.0,
+      "tvd_selected_vs_frame": 0.04272342051335485,
+      "max_abs_smd": 0.0
+    },
+    {
+      "domain": "Gender",
+      "categories": 2,
+      "tvd_between_arms": 0.0158730158730159,
+      "tvd_selected_vs_frame": 4.34163453857106e-05,
+      "max_abs_smd": 0.032157832069216685
+    },
+    {
+      "domain": "Age/youth",
+      "categories": 3,
+      "tvd_between_arms": 0.028571428571428588,
+      "tvd_selected_vs_frame": 0.00683720607134174,
+      "max_abs_smd": 0.06338342516350623
+    },
+    {
+      "domain": "Main crop",
+      "categories": 20,
+      "tvd_between_arms": 0.044444444444444425,
+      "tvd_selected_vs_frame": 0.032180195199888836,
+      "max_abs_smd": 0.10682821812752673
+    },
+    {
+      "domain": "FSC",
+      "categories": 44,
+      "tvd_between_arms": 0.09523809523809523,
+      "tvd_selected_vs_frame": 0.045198152200340375,
+      "max_abs_smd": 0.15967388862370482
+    }
+  ]
+}

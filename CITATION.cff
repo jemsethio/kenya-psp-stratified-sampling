@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite this software and the frozen run version when describing the PSP randomization."
+title: "Kenya OND 2026 PSP farmer sampling and randomization pipeline"
+type: software
+authors:
+  - name: "Kenya OND PSP Study Methods Team"
+version: 0.1.0
+date-released: 2026-11-11
+abstract: "Reproducible candidate-frame quality control, provisional geographic stratification, cube-style balance, constrained two-arm random allocation and scientific diagnostics."
+# Maintainers and organization should be added only after institutional confirmation.

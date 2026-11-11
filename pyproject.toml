@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "kenya-psp-sampling"
+version = "0.1.0"
+description = "Auditable historical 2026 OND PSP farmer sampling and two-arm assignment"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0,<3", "scipy>=1.14,<2", "matplotlib>=3.8,<4"]
+[tool.setuptools.packages.find]
+where = ["src"]

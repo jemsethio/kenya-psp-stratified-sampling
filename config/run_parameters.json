@@ -1,0 +1,18 @@
+{
+  "target_per_arm": 315,
+  "analytical_target_per_arm": 267,
+  "counties": {
+    "Meru": 157,
+    "Tharaka Nithi": 158
+  },
+  "original_source_rows": 1976,
+  "clean_rows": 1900,
+  "deduplicated_candidates": 1828,
+  "expected_joint_selected": 630,
+  "random_seed_joint": 20261110104,
+  "geographic_groups_provisional": 24,
+  "number_balancing_indicators": 79,
+  "rerandomization_feasible_candidates": 350,
+  "rerandomization_top_fraction": 0.1,
+  "notes": "Frozen historical implementation. Changing parameters requires a planned new draw, not merely changing these metadata values."
+}
